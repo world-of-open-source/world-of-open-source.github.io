@@ -18,9 +18,9 @@
 
 Goal: To create an environment to replay the suspended malicious packet and to analyze the threat in Capture and Replay
  
-Skill Level: Advanced
-Language/Tools: Python, Django, JavaScript, HTML, CSS
-Tags: Networking, Web Development, Malicious software
+Skill Level: Advanced  
+Language/Tools: Python, Django, JavaScript, HTML, CSS  
+Tags: Networking, Web Development, Malicious software  
 Mentors: Dr.Deepamala, Dr.Shobha
 
 ## Data Skew Profiler ##
@@ -31,10 +31,10 @@ Goals:
 - Upload data into the distributed environment using a database by creating clusters.
 - Design a ML algorithm to work on the distributed database(implement algorithm and get result) and check with benchmark result.
 
-Skill Level: Advanced
-Language/Tools:ECL, Python
-Tags: HPCC-Systems, Networking, Web Development, DBMS
-Mentors: Prof.Jyoti , Dr.Shobha
+Skill Level: Advanced   
+Language/Tools:ECL, Python  
+Tags: HPCC-Systems, Networking, Web Development, DBMS  
+Mentors: Prof.Jyoti , Dr.Shobha  
 
 ## Recommender System using Machine Learning in RVCE Connect ##
 
@@ -44,19 +44,19 @@ Goals:
 - Connect alumni of RVCE(over 10000 people) with its current students for internship opportunities abroad.
 - Create a Machine Learning model that suggests the Alumni for a specific research project/job completion based on the feature input given(Recommender System)
 
-Skill Level: Intermediate/Advanced
-Language/Tools: Java, CSS, JavaScript, Node.js
-Tags:Android App development, AI, Web Development
-Mentors: Dr.Vinay, Dr.Nagaraj
+Skill Level: Intermediate/Advanced  
+Language/Tools: Java, CSS, JavaScript, Node.js  
+Tags:Android App development, AI, Web Development  
+Mentors: Dr.Vinay, Dr.Nagaraj  
 
 ## Encrypted Centralized Projector System using RaspberryPi ##
 
 
 
-Skill Level: Intermediate/Advanced
-Language/Tools:Python, Bash programming,
-Tags: Raspberry Pi, Network Security, Networking
-Mentors: Dr.Badrinath, Dr.Sowmyarani
+Skill Level: Intermediate/Advanced  
+Language/Tools:Python, Bash programming  
+Tags: Raspberry Pi, Network Security, Networking  
+Mentors: Dr.Badrinath, Dr.Sowmyarani  
 
 ## WIFI support in ‘Intelligent Maze Solver’ ##
 
@@ -67,10 +67,10 @@ Goals:
 - Use Wi-Fi for wireless communications(using NodeMCU 1.0 ) rather than XBee/HC-05 Bluetooth Modules.
 - Writing an API for NodeMCU in python for effective interface
 
-Skill Level: Beginner/Intermediate
-Language/Tools: Python, Arduino Programming
-Tags: Image Processing, Arduino, Hardware Programming, Bluetooth
-Mentors: Dr.Anala, Dr.Hemawati
+Skill Level: Beginner/Intermediate  
+Language/Tools: Python, Arduino Programming  
+Tags: Image Processing, Arduino, Hardware Programming, Bluetooth  
+Mentors: Dr.Anala, Dr.Hemawati  
 
 ## Write Code for WiNoC in BookSim2 network simulator ##
 
@@ -79,10 +79,10 @@ The student must have a basic knowledge of Computer Architecture( Network on Chi
 
 Goal: The goal is to write well-documented code for the proposed ‘Wireless Network on Chip’[WiNoC], and various other routing algorithms that are not already present in BookSIm 2.0.
 
-Skill Level: Advanced
-Language/Tools: C++, Bash Programming,Makefiles
-Tags: NoC, Computer Architecture, Networking, Web Development
-Mentor: Dr.Minal Moharir, Dr.Vishalakshi
+Skill Level: Advanced  
+Language/Tools: C++, Bash Programming,Makefiles  
+Tags: NoC, Computer Architecture, Networking, Web Development  
+Mentor: Dr.Minal Moharir, Dr.Vishalakshi  
 
 ## Implementation of Odd-Even Routing of NoC on FPGA ##
 
@@ -95,10 +95,10 @@ Prerequisites:
 - FPGA Programming(verilog, VHDL or even MyHDL)
 - Xilinx Vivado
 
-Skill Level: Advanced
-Language/Tools: Verilog, VHDL
-Tags: FPGA Programming, XIlinx Vivado
-Mentors: Dr. Namita, Dr.Minal
+Skill Level: Advanced  
+Language/Tools: Verilog, VHDL  
+Tags: FPGA Programming, XIlinx Vivado  
+Mentors: Dr. Namita, Dr.Minal  
 
 ## Port Verilog Code to MyHDL ##
 
@@ -111,10 +111,10 @@ Prerequisites:
 - Python
 - Basic Computer Architecture
 
-Skill Level: Intermediate/Advanced
-Language/Tools:Verilog, VHDL, Python
-Tags: Hardware/FPGA Programming, MyHDL
-Mentors: Dr.namita, Dr.Minal
+Skill Level: Intermediate/Advanced   
+Language/Tools:Verilog, VHDL, Python  
+Tags: Hardware/FPGA Programming, MyHDL  
+Mentors: Dr.namita, Dr.Minal  
 
 ## Aruco Marker Project ##
 
@@ -122,7 +122,7 @@ Aruco Markers are a special class of markers used in pose estimation, which is o
 You can learn more about Aruco Markers here: https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html
 
 
-Skill Level: Intermediate/Advanced
-Language/Tools:Python, Django, JavaScript, HTML, CSS
-Tags: Image Processing, Web Development, augmented reality
+Skill Level: Intermediate/Advanced  
+Language/Tools:Python, Django, JavaScript, HTML, CSS  
+Tags: Image Processing, Web Development, augmented reality    
 Mentors: Dr.Anala, Dr.Poonam
