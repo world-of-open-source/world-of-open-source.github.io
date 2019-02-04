@@ -1,19 +1,6 @@
 # Google Summer of Code 2019- Project Ideas
 
 
-Capture and Replay
-Data Skew Profiler
-Recommender System using Machine Learning in RVCE Connect
-Encrypted Centralized Projector System using RaspberryPi
-WIFI support in ‘Intelligent Maze Solver’
-Write Code for WiNoC in BookSim2 network simulator
-Implementation of Odd-Even Routing of NoC on FPGA
-Port Verilog Code to MyHDL 
-Aruco Marker Project
-
-# Google Summer of Code 2019- Project Ideas
-
-
 - Capture and Replay
 - Data Skew Profiler
 - Recommender System using Machine Learning in RVCE Connect
