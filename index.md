@@ -1,7 +1,7 @@
 # Google Summer of Code 2019- Project Ideas
 
 
-- [Capture and Replay](https://github.com/world-of-open-source/world-of-open-source.github.io/blob/master/index.md#capture-and-replay)
+- [Capture and Replay](#capture-and-replay)
 - [Data Skew Profiler](https://github.com/world-of-open-source/world-of-open-source.github.io/blob/master/index.md#data-skew-profiler)
 - [Recommender System using Machine Learning in RVCE Connect](https://github.com/world-of-open-source/world-of-open-source.github.io/blob/master/index.md#recommender-system-using-machine-learning-in-rvce-connect)
 - [Encrypted Centralized Projector System using RaspberryPi](https://github.com/world-of-open-source/world-of-open-source.github.io/blob/master/index.md#encrypted-centralized-projector-system-using-raspberrypi)
@@ -12,7 +12,7 @@
 - [Aruco Marker Project](https://github.com/world-of-open-source/world-of-open-source.github.io/blob/master/index.md#aruco-marker-project)
 
 
-## Capture and Replay
+## Capture and Replay ##
 
  Capture and Replay is a web-based network traffic capture and replay tool made using django and scapy powered by python. This tool can be used to upload, edit and play trace files inside live networks. You can refer to the documentation here.
 
