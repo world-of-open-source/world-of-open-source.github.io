@@ -15,42 +15,42 @@ Contact: [minalmoharir@rvce.edu.in](mailto:minalmoharir@rvce.edu.in)
 ## [Dr. Deepamala N](https://rvce.edu.in//cs-deepamala)
 Associate Professor at RV College of Engineering  
 Experience: 10 years  
-Skills: Networking, AI, NLP
-Contact: deepamalan@rvce.edu.in  
+Skills: Networking, AI, NLP  
+Contact: [deepamalan@rvce.edu.in](mailto:deepamalan@rvce.edu.in)
 
 ## [Prof.Jyoti Shetty](https://rvce.edu.in//cs-jyoti)
 Assistant Professor at RVCE  
 Experience: 10 years  
 Skills: Data Mining, Cloud Computing, DBMS  
-Contact: jyothis@rvce.edu.in  
+Contact: [jyothis@rvce.edu.in](mailto:jyothis@rvce.edu.in)  
 
 ## [Dr.Vinay V Hegde](https://rvce.edu.in//cs-vinay)
 Associate Professor at RVCE   
 Experience: 13 years  
 Skills: Computational Linguistics, Computer Networks, NLP, Android App Dev.  
-Contact: vinayvhegde@rvce.edu.in  
+Contact: [vinayvhegde@rvce.edu.in](mailto:vinayvhegde@rvce.edu.in)
 
 ## [Dr.Nagaraja G.S.](https://rvce.edu.in//cs-nagarajags)
 Professor at RVCE  
 Experience: Teaching: 24+ years, Industry: 1 year, Research: 11years  
 Skills: Computer Networks & Management, Multimedia Communications  
-Contact: nagarajags@rvce.edu.in
+Contact: [nagarajags@rvce.edu.in](mailto:nagarajags@rvce.edu.in)
 
 ## [Dr.Anala M.R.](https://rvce.edu.in//cs-anala)
 Associate Professor at RVCE  
 Experience: 14 years  
 Skills: Computer Networks, Computer Architecture and High Performance Computing,
 Distributed Systems and Parallel programming  
-Contact: analamr@rvce.edu.in  
+Contact: [analamr@rvce.edu.in](mailto:analamr@rvce.edu.in)
 
 ## [Dr. Hemavathy R](https://rvce.edu.in//cs-hemavathy)
 Associate Professor at RCVE  
 Experience: Teaching:18 years  
 Skills: Computer Vision, Computer Graphics, Database Management Systems  
-Conatact: hemavathyr@rvce.edu.in  
+Contact: [hemavathyr@rvce.edu.in](mailto:hemavathyr@rvce.edu.in)
 
 ## [Prof.Namita Palecha](https://rvce.edu.in//ec-namithapalecha)
 Assistant Professor at RVCE  
 Experience: 10 Years  
 Skills: VLSI Circuits Testing and Testability  
-Contact: namitapalecha@rvce.edu.in  
+Contact: [namitapalecha@rvce.edu.in](mailto:namitapalecha@rvce.edu.in)
