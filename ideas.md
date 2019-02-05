@@ -82,7 +82,7 @@ Goal: The goal is to write well-documented code for the proposed ‘Wireless Net
 Skill Level: Advanced  
 Language/Tools: C++, Bash Programming,Makefiles  
 Tags: NoC, Computer Architecture, Networking, Web Development  
-Mentor: Dr.Minal Moharir, Dr.Vishalakshi  
+Mentor: Dr.Minal Moharir, Dr.Anala
 
 ## Implementation of Odd-Even Routing of NoC on FPGA ##
 
@@ -98,7 +98,7 @@ Prerequisites:
 Skill Level: Advanced  
 Language/Tools: Verilog, VHDL  
 Tags: FPGA Programming, XIlinx Vivado  
-Mentors: Dr. Namita, Dr.Minal  
+Mentors: Prof.Namita, Dr.Minal  
 
 ## Port Verilog Code to MyHDL ##
 
@@ -114,7 +114,7 @@ Prerequisites:
 Skill Level: Intermediate/Advanced   
 Language/Tools:Verilog, VHDL, Python  
 Tags: Hardware/FPGA Programming, MyHDL  
-Mentors: Dr.namita, Dr.Minal  
+Mentors: Prof.Namita, Dr.Minal  
 
 ## Aruco Marker Project ##
 
@@ -125,4 +125,4 @@ You can learn more about Aruco Markers here: https://docs.opencv.org/3.1.0/d5/da
 Skill Level: Intermediate/Advanced  
 Language/Tools:Python, Django, JavaScript, HTML, CSS  
 Tags: Image Processing, Web Development, augmented reality    
-Mentors: Dr.Anala, Dr.Poonam
+Mentors: Dr.Anala, Dr.Hemavathy

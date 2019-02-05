@@ -10,7 +10,7 @@ Contact: [shobhag@rvce.edu.in](mailto:shobhag@rvce.edu.in)
 Associate Professor at RV College of Engineering  
 Experience:14 years  
 Skills:Computer networks and security, HPC, Multicore Architectures  
-Contact: minalmoharir@rvce.edu.in  
+Contact: [minalmoharir@rvce.edu.in](mailto:minalmoharir@rvce.edu.in)  
 
 ## [Dr. Deepamala N](https://rvce.edu.in//cs-deepamala)
 Associate Professor at RV College of Engineering  
@@ -43,8 +43,14 @@ Skills: Computer Networks, Computer Architecture and High Performance Computing,
 Distributed Systems and Parallel programming  
 Contact: analamr@rvce.edu.in  
 
-## [Dr.Sowmyarani C.N.](https://www.rvce.edu.in//cs-soumyarani)
-Associate Professor ar RVCE  
-Experience: Teaching: 10 years Industrial: 01 year Research: 08 years  
-Skills: Image Processing, Computer Security and Privacy, Data Engineering  
-Contact: sowmyaranicn@rvce.edu.in
+## [Dr. Hemavathy R](https://rvce.edu.in//cs-hemavathy)
+Associate Professor at RCVE  
+Experience: Teaching:18 years  
+Skills: Computer Vision, Computer Graphics, Database Management Systems  
+Conatact: hemavathyr@rvce.edu.in  
+
+## [Prof.Namita Palecha](https://rvce.edu.in//ec-namithapalecha)
+Assistant Professor at RVCE  
+Experience: 10 Years  
+Skills: VLSI Circuits Testing and Testability  
+Contact: namitapalecha@rvce.edu.in  
