@@ -21,7 +21,7 @@ Goal: To create an environment to replay the suspended malicious packet and to a
 Skill Level: Advanced  
 Language/Tools: Python, Django, JavaScript, HTML, CSS  
 Tags: Networking, Web Development, Malicious software  
-Mentors: Dr.Deepamala, Dr.Shobha
+Mentors: [Dr.Deepamala](mailto:deepamalan@rvce.edu.in), [Dr.Shobha](mailto:shobhag@rvce.edu.in)
 
 ## Data Skew Profiler ##
 
@@ -34,7 +34,7 @@ Goals:
 Skill Level: Advanced   
 Language/Tools:ECL, Python  
 Tags: HPCC-Systems, Networking, Web Development, DBMS  
-Mentors: Prof.Jyoti , Dr.Shobha  
+Mentors: [Prof.Jyoti](mailto:jyothis@rvce.edu.in)  , [Dr.Shobha](mailto:shobhag@rvce.edu.in)
 
 ## Recommender System using Machine Learning in RVCE Connect ##
 
@@ -47,7 +47,7 @@ Goals:
 Skill Level: Intermediate/Advanced  
 Language/Tools: Java, CSS, JavaScript, Node.js  
 Tags:Android App development, AI, Web Development  
-Mentors: Dr.Vinay, Dr.Nagaraja  
+Mentors: [Dr.Vinay](mailto:vinayvhegde@rvce.edu.in), [Dr.Nagaraja](mailto:nagarajags@rvce.edu.in)  
 
 ## Encrypted Centralized Projector System using RaspberryPi ##
 
@@ -56,7 +56,7 @@ Mentors: Dr.Vinay, Dr.Nagaraja
 Skill Level: Intermediate/Advanced  
 Language/Tools:Python, Bash programming  
 Tags: Raspberry Pi, Network Security, Networking  
-Mentors: Dr.Vinay, Prof.Jyoti
+Mentors: [Dr.Vinay](mailto:vinayvhegde@rvce.edu.in), [Prof.Jyoti](mailto:jyothis@rvce.edu.in) 
 
 ## WIFI support in ‘Intelligent Maze Solver’ ##
 
@@ -70,7 +70,7 @@ Goals:
 Skill Level: Beginner/Intermediate  
 Language/Tools: Python, Arduino Programming  
 Tags: Image Processing, Arduino, Hardware Programming, Bluetooth  
-Mentors: Dr.Anala, Dr.Hemawati  
+Mentors: [Dr.Anala](mailto:analamr@rvce.edu.in), [Dr.Hemawati](mailto:hemavathyr@rvce.edu.in)
 
 ## Write Code for WiNoC in BookSim2 network simulator ##
 
@@ -82,7 +82,7 @@ Goal: The goal is to write well-documented code for the proposed ‘Wireless Net
 Skill Level: Advanced  
 Language/Tools: C++, Bash Programming,Makefiles  
 Tags: NoC, Computer Architecture, Networking, Web Development  
-Mentor: Dr.Minal Moharir, Dr.Anala
+Mentor: [Dr.Minal Moharir](mailto:minalmoharir@rvce.edu.in), [Dr.Anala](mailto:analamr@rvce.edu.in)
 
 ## Implementation of Odd-Even Routing of NoC on FPGA ##
 
@@ -98,7 +98,7 @@ Prerequisites:
 Skill Level: Advanced  
 Language/Tools: Verilog, VHDL  
 Tags: FPGA Programming, XIlinx Vivado  
-Mentors: Prof.Namita, Dr.Minal  
+Mentors: [Prof.Namita](mailto:namitapalecha@rvce.edu.in), [Dr.Minal](mailto:minalmoharir@rvce.edu.in)
 
 ## Port Verilog Code to MyHDL ##
 
@@ -114,7 +114,7 @@ Prerequisites:
 Skill Level: Intermediate/Advanced   
 Language/Tools:Verilog, VHDL, Python  
 Tags: Hardware/FPGA Programming, MyHDL  
-Mentors: Prof.Namita, Dr.Minal  
+Mentors: [Prof.Namita](mailto:namitapalecha@rvce.edu.in), [Dr.Minal](mailto:minalmoharir@rvce.edu.in)
 
 ## Aruco Marker Project ##
 
@@ -125,4 +125,4 @@ You can learn more about Aruco Markers here: https://docs.opencv.org/3.1.0/d5/da
 Skill Level: Intermediate/Advanced  
 Language/Tools:Python, Django, JavaScript, HTML, CSS  
 Tags: Image Processing, Web Development, augmented reality    
-Mentors: Dr.Anala, Dr.Hemavathy
+Mentors: [Dr.Anala](mailto:analamr@rvce.edu.in), [Dr.Hemavathy](mailto:hemavathyr@rvce.edu.in)
