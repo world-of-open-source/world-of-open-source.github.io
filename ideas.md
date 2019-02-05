@@ -47,7 +47,7 @@ Goals:
 Skill Level: Intermediate/Advanced  
 Language/Tools: Java, CSS, JavaScript, Node.js  
 Tags:Android App development, AI, Web Development  
-Mentors: Dr.Vinay, Dr.Nagaraj  
+Mentors: Dr.Vinay, Dr.Nagaraja  
 
 ## Encrypted Centralized Projector System using RaspberryPi ##
 
@@ -56,7 +56,7 @@ Mentors: Dr.Vinay, Dr.Nagaraj
 Skill Level: Intermediate/Advanced  
 Language/Tools:Python, Bash programming  
 Tags: Raspberry Pi, Network Security, Networking  
-Mentors: Dr.Badrinath, Dr.Sowmyarani  
+Mentors: Dr.Vinay, Prof.Jyoti
 
 ## WIFI support in ‘Intelligent Maze Solver’ ##
 
