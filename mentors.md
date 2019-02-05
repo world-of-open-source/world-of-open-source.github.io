@@ -4,7 +4,7 @@
 Senior Professor at RV College of Engineering  
 Experience: 25 years teaching, 13 years Industry   
 Skills: Data Mining, Image Processing, Networking  
-Contact: [shobhag@rvce.edu.in])(mailto:shobhag@rvce.edu.in)
+Contact: [shobhag@rvce.edu.in](mailto:shobhag@rvce.edu.in)
 
 ## [Dr.Minal Moharir](https://rvce.edu.in//cs-minalmoharir)
 Associate Professor at RV College of Engineering  
