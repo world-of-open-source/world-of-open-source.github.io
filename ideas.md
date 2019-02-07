@@ -21,6 +21,7 @@ Goal: To create an environment to replay the suspended malicious packet and to a
 Skill Level: Advanced  
 Language/Tools: Python, Django, JavaScript, HTML, CSS  
 Tags: Networking, Web Development, Malicious software  
+[GitHub Link](https://github.com/world-of-open-source/Capture-and-Replay)  
 Mentors: [Dr.Deepamala](mailto:deepamalan@rvce.edu.in), [Dr.Shobha](mailto:shobhag@rvce.edu.in)
 
 ## Data Skew Profiler ##
@@ -34,6 +35,7 @@ Goals:
 Skill Level: Advanced   
 Language/Tools:ECL, Python  
 Tags: HPCC-Systems, Networking, Web Development, DBMS  
+[GitHub Link](https://github.com/world-of-open-source/DataSkewProfiler)  
 Mentors: [Prof.Jyoti](mailto:jyothis@rvce.edu.in)  , [Dr.Shobha](mailto:shobhag@rvce.edu.in)
 
 ## Recommender System using Machine Learning in RVCE Connect ##
