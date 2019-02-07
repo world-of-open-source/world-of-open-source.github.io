@@ -3,9 +3,9 @@
 
 - [Capture and Replay](#capture-and-replay)
 - [Data Skew Profiler](#data-skew-profiler)
-- [Recommender System using Machine Learning in RVCE Connect](#recommender-system-using-machine-learning-in-rvce-connect)
 - [WIFI support in ‘Intelligent Maze Solver’](#wifi-support-in-intelligent-maze-solver)
 - [Port Verilog Code to MyHDL](#port-verilog-code-to-myhdl) 
+- [Recommender System using Machine Learning in RVCE Connect](#recommender-system-using-machine-learning-in-rvce-connect)
 - [Encrypted Centralized Projector System using RaspberryPi](#encrypted-centralized-projector-system-using-raspberrypi)
 - [Write Code for WiNoC in BookSim2 network simulator](#write-code-for-winoc-in-booksim2-network-simulator)
 - [Implementation of Odd-Even Routing of NoC on FPGA](#implementation-of-odd-even-routing-of-noc-on-fpga)
@@ -48,24 +48,6 @@ Tags: HPC-Systems, Networking, Web Development, DBMS
   
 Mentors: [Prof.Jyoti](mailto:jyothis@rvce.edu.in)  , [Dr.Shobha](mailto:shobhag@rvce.edu.in)
 
-## Recommender System using Machine Learning in RVCE Connect ##
-
-RVCE Connect is an Android app that allows RVCE students to view their Attendance, Test Scores, Timetable etc.
-
-Goals:
-- Connect alumni of RVCE(over 10000 people) with its current students for internship opportunities abroad.
-- Create a Machine Learning model that suggests the Alumni for a specific research project/job completion based on the feature input given(Recommender System)
-
-Skill Level: Intermediate/Advanced  
-
-Prerequisites: Android App Development with JAVA, JavaScript, basics of Node.js, Machine Learning(Simple regressions and Classifications).  
-
-Language/Tools: Java, CSS, JavaScript, Node.js  
-Tags:Android App development, AI, Web Development  
-
-[GitHub Link](https://github.com/world-of-open-source/RVCE-Connect)  
-
-Mentors: [Dr.Vinay](mailto:vinayvhegde@rvce.edu.in), [Dr.Nagaraja](mailto:nagarajags@rvce.edu.in)  
 
 ## WIFI support in ‘Intelligent Maze Solver’ ##
 
@@ -106,6 +88,25 @@ Tags: Hardware/FPGA Programming, MyHDL
 [GitHub Link](https://github.com/world-of-open-source/MyHDL-Collections)  
 
 Mentors: [Prof.Namita](mailto:namitapalecha@rvce.edu.in), [Dr.Minal](mailto:minalmoharir@rvce.edu.in)
+
+## Recommender System using Machine Learning in RVCE Connect ##
+
+RVCE Connect is an Android app that allows RVCE students to view their Attendance, Test Scores, Timetable etc.
+
+Goals:
+- Connect alumni of RVCE(over 10000 people) with its current students for internship opportunities abroad.
+- Create a Machine Learning model that suggests the Alumni for a specific research project/job completion based on the feature input given(Recommender System)
+
+Skill Level: Intermediate/Advanced  
+
+Prerequisites: Android App Development with JAVA, JavaScript, basics of Node.js, Machine Learning(Simple regressions and Classifications).  
+
+Language/Tools: Java, CSS, JavaScript, Node.js  
+Tags:Android App development, AI, Web Development  
+
+[GitHub Link](https://github.com/world-of-open-source/RVCE-Connect)  
+
+Mentors: [Dr.Vinay](mailto:vinayvhegde@rvce.edu.in), [Dr.Nagaraja](mailto:nagarajags@rvce.edu.in)  
 
 ## Encrypted Centralized Projector System using RaspberryPi ##
 
