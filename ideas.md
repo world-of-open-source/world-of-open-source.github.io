@@ -10,7 +10,7 @@
 - [Implementation of Odd-Even Routing of NoC on FPGA](#implementation-of-odd-even-routing-of-noc-on-fpga)
 - [Port Verilog Code to MyHDL](#port-verilog-code-to-myhdl) 
 - [Aruco Marker Project](#aruco-marker-project)
-
+- [New Idea Proposal](#your-idea)
 
 ## Capture and Replay ##
 
@@ -127,4 +127,11 @@ You can learn more about Aruco Markers here: https://docs.opencv.org/3.1.0/d5/da
 Skill Level: Intermediate/Advanced  
 Language/Tools:Python, Django, JavaScript, HTML, CSS  
 Tags: Image Processing, Web Development, augmented reality    
-Mentors: [Dr.Anala](mailto:analamr@rvce.edu.in), [Dr.Hemavathy](mailto:hemavathyr@rvce.edu.in)
+Mentors: [Dr.Anala](mailto:analamr@rvce.edu.in), [Dr.Hemavathy](mailto:hemavathyr@rvce.edu.in)  
+
+## Your Idea ##
+The above projects are strong suggestions for the students.  
+We happily welcome all kinds of open source project ideas. Tell us your idea and we will pair you with a mentor from our pool of mentors available [here](https://world-of-open-source.github.io/mentors.html).  
+Contact [us](mailto:syedfarhana.ec18@rvce.edu.in) for further details.  
+
+
