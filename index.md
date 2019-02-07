@@ -10,8 +10,8 @@ Here is our Project Idea List: [Project Ideas for GSoC'19](./ideas.md)
 Check out our [Mentors Page](./mentors.md). 
 
 # GitHub 
-You can find our GitHub Organization page [here](https://github.com/world-of-open-source/)  
-We are updating our GitHub repositories as soon as possible, as most of our code currently resides in private repositories.  
+You can find our GitHub Organization page [here](https://github.com/world-of-open-source/).   
+We are currently working on updating our GitHub repositories, as most of our code currently resides in private repositories.  
 
 
 
