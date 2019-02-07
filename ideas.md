@@ -125,7 +125,9 @@ BookSIm 2.0 is a cycle-accurate interconnection Network Simulator for Network on
 The student must have a basic knowledge of Computer Architecture( Network on Chip Architecture in particular)
 
 Goal: The goal is to write well-documented code for the proposed ‘Wireless Network on Chip’[WiNoC], and various other routing algorithms that are not already present in BookSIm 2.0.
-
+Reproducing the research paper by Sunil, Sagar and Farhan, 'Low Latency and High Throughput NoC Architecture for multicore processors.', is our ultimate aim.  
+The paper is on its way to IEEE XPlorer.  
+  
 Skill Level: Advanced  
 Language/Tools: C++, Bash Programming,Makefiles  
 Tags: NoC, Computer Architecture, Networking, Web Development  
