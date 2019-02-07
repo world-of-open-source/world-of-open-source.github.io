@@ -1,4 +1,6 @@
-# Google Summer of Code 2019- Project Ideas
+![logo-wos](https://user-images.githubusercontent.com/42010556/52415787-02525f00-2b0e-11e9-86ae-c54480955d97.png)
+
+# Google Summer of Code 2019- Project Ideas #
 
 
 - [Capture and Replay](#capture-and-replay)
@@ -29,6 +31,8 @@ Tags: Networking, Web Development, Malicious software
   
 Mentors: [Dr.Deepamala](mailto:deepamalan@rvce.edu.in), [Dr.Shobha](mailto:shobhag@rvce.edu.in)
 
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
+
 ## Data Skew Profiler ##
 
 This project analyzes the execution graphs for various jobs and finds a correlation between the data skew and performance skew in HPC Systems/Clusters.
@@ -48,6 +52,7 @@ Tags: HPC-Systems, Networking, Web Development, DBMS
   
 Mentors: [Prof.Jyoti](mailto:jyothis@rvce.edu.in)  , [Dr.Shobha](mailto:shobhag@rvce.edu.in)
 
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
 
 ## WIFI support in ‘Intelligent Maze Solver’ ##
 
@@ -70,6 +75,8 @@ Tags: Image Processing, Arduino, Hardware Programming, Bluetooth
 
 Mentors: [Dr.Anala](mailto:analamr@rvce.edu.in), [Dr.Hemawati](mailto:hemavathyr@rvce.edu.in)
 
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
+
 ## Port Verilog Code to MyHDL ##
 
 Writing code in verilog/VHDL seems tedious and non-friendly for beginners. On the other hand, Python is gaining a lot of popularity amongst beginners. MyHDL is a beginner-friendly Python Library that can be used as an alternative to Verilog and other HDLs.
@@ -88,6 +95,8 @@ Tags: Hardware/FPGA Programming, MyHDL
 [GitHub Link](https://github.com/world-of-open-source/MyHDL-Collections)  
 
 Mentors: [Prof.Namita](mailto:namitapalecha@rvce.edu.in), [Dr.Minal](mailto:minalmoharir@rvce.edu.in)
+
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
 
 ## Recommender System using Machine Learning in RVCE Connect ##
 
@@ -108,6 +117,8 @@ Tags:Android App development, AI, Web Development
 
 Mentors: [Dr.Vinay](mailto:vinayvhegde@rvce.edu.in), [Dr.Nagaraja](mailto:nagarajags@rvce.edu.in)  
 
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
+
 ## Encrypted Centralized Projector System using RaspberryPi ##
 
 The goal of the project is to build a centralized and encrypted projector system with Raspberry Pi as the central server.
@@ -119,6 +130,8 @@ Prerequisites: Physical access to a Raspberry Pi, Python programming, familiarit
 Language/Tools:Python, Bash programming  
 Tags: Raspberry Pi, Network Security, Networking  
 Mentors: [Dr.Vinay](mailto:vinayvhegde@rvce.edu.in), [Prof.Jyoti](mailto:jyothis@rvce.edu.in) 
+
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
 
 ## Write Code for WiNoC in BookSim2 network simulator ##
 
@@ -134,6 +147,8 @@ Language/Tools: C++, Bash Programming,Makefiles
 Tags: NoC, Computer Architecture, Networking, Web Development  
 
 Mentor: [Dr.Minal Moharir](mailto:minalmoharir@rvce.edu.in), [Dr.Anala](mailto:analamr@rvce.edu.in)
+
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
 
 ## Implementation of Odd-Even Routing of NoC on FPGA ##
 
@@ -154,6 +169,8 @@ Tags: FPGA Programming, Xilinx Vivado
 
 Mentors: [Prof.Namita](mailto:namitapalecha@rvce.edu.in), [Dr.Minal](mailto:minalmoharir@rvce.edu.in)
 
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
+
 
 ## Aruco Marker Project ##
 
@@ -168,9 +185,13 @@ Tags: Image Processing, Web Development, augmented reality
 
 Mentors: [Dr.Anala](mailto:analamr@rvce.edu.in), [Dr.Hemavathy](mailto:hemavathyr@rvce.edu.in)  
 
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
+
 ## Your Idea ##
 The above projects are strong suggestions for the students. 
 We happily welcome all kinds of open source project ideas. Tell us your idea and we will pair you with a mentor from our pool of mentors available [here](https://world-of-open-source.github.io/mentors.html).  
 Contact [us](mailto:syedfarhana.ec18@rvce.edu.in) for further details.  
+
+[(Back to Top)](#google-summer-of-code-2019--project-ideas)  
 
 
