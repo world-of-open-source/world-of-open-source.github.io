@@ -136,7 +136,9 @@ Mentor: [Dr.Minal Moharir](mailto:minalmoharir@rvce.edu.in), [Dr.Anala](mailto:a
 
 ## Implementation of Odd-Even Routing of NoC on FPGA ##
 
-Network on Chip Architecture is the word of tongue these days in Processor Architectures. You can find more about NoC here https://en.wikipedia.org/wiki/Network_on_a_chip . Our goal is to implement the famous odd-even routing on hardware(FPGA). 
+[Network on Chip Architecture](https://en.wikipedia.org/wiki/Network_on_a_chip) is the word of tongue these days in Processor Architectures.  
+NoCs are being extensively used in modern muticore SoCs, including the famous Intel Core i9 processor.  
+Our goal is to implement the famous odd-even routing algorithm on hardware(FPGA). 
 
 Prerequisites:
 - Computer Architecture
@@ -147,16 +149,15 @@ Prerequisites:
 
 Skill Level: Advanced  
 Language/Tools: Verilog, VHDL  
-Tags: FPGA Programming, XIlinx Vivado  
+Tags: FPGA Programming, Xilinx Vivado  
 
 Mentors: [Prof.Namita](mailto:namitapalecha@rvce.edu.in), [Dr.Minal](mailto:minalmoharir@rvce.edu.in)
 
 
 ## Aruco Marker Project ##
 
-Aruco Markers are a special class of markers used in pose estimation, which is of great importance in many computer vision applications: robot navigation, augmented reality, and many more. This project aims to create a website that will determine the pose using aruco markers, thereby speeding up of aruco marker testing for augmented reality with Unity 3D.
-You can learn more about Aruco Markers here: https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html
-
+[Aruco Markers](https://docs.opencv.org/3.1.0/d5/dae/tutorial_aruco_detection.html) are a special class of markers used in pose estimation, which is of great importance in many computer vision applications: robot navigation, augmented reality, and many more.  
+This project aims to create a website that will determine the pose using aruco markers, thereby speeding up of aruco marker testing for augmented reality with Unity 3D.
 
 Skill Level: Intermediate/Advanced  
 Language/Tools:Python, Django, JavaScript, HTML, CSS  
