@@ -1,5 +1,5 @@
-![imglogo](https://user-images.githubusercontent.com/42010556/52521641-fdbdb000-2c9f-11e9-82b8-adad757c50e0.png)
-<button name="HomePage" onclick="https://world-of-open-source.github.io">HomePage</button>
+![imglogo](https://user-images.githubusercontent.com/42010556/52521641-fdbdb000-2c9f-11e9-82b8-adad757c50e0.png)  
+<button name="HomePage" onclick="https://world-of-open-source.github.io">HomePage</button> 
 <button name="mentors" onclick="mentors.md">Mentors</button>
 <button name="application" onclick="application-instructions.md">Proposal Guidelines</button>
 # Google Summer of Code 2019- Project Ideas #
