@@ -1,5 +1,4 @@
-![logo-wos](https://user-images.githubusercontent.com/42010556/52415787-02525f00-2b0e-11e9-86ae-c54480955d97.png)
-
+![imglogo](https://user-images.githubusercontent.com/42010556/52521641-fdbdb000-2c9f-11e9-82b8-adad757c50e0.png)
 # Google Summer of Code 2019- Project Ideas #
 
 
