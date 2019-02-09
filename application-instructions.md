@@ -1,3 +1,10 @@
+![imglogo](https://user-images.githubusercontent.com/42010556/52521641-fdbdb000-2c9f-11e9-82b8-adad757c50e0.png)  
+
+[Home](https://world-of-open-source.github.io/)  
+[Ideas List-2019](ideas.md)  
+[Mentors](mentors.md)  
+[Proposal Instructions](application-instructions.md)
+
 # Application template for GSoC Proposal
 Be brief in everything you write. You can alter sections based on your project  type.
 
