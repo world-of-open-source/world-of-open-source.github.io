@@ -1,7 +1,8 @@
 ![imglogo](https://user-images.githubusercontent.com/42010556/52521641-fdbdb000-2c9f-11e9-82b8-adad757c50e0.png)  
 
 
-<button name="HomePage" href="https://world-of-open-source.github.io">HomePage</button> 
+<button type="HomePage" href="https://world-of-open-source.github.io">HomePage</button> 
+<button type="HomePage" onclick="https://world-of-open-source.github.io/ideas.html">Ideas List</button> 
 <button name="mentors" href="mentors.md">Mentors</button>
 <button name="application" href="application-instructions.md">Proposal Guidelines</button>
 
