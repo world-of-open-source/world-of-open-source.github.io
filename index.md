@@ -1,4 +1,9 @@
+![imglogo](https://user-images.githubusercontent.com/42010556/52521641-fdbdb000-2c9f-11e9-82b8-adad757c50e0.png)  
 
+
+<button name="HomePage" href="https://world-of-open-source.github.io">HomePage</button> 
+<button name="mentors" href="mentors.md">Mentors</button>
+<button name="application" href="application-instructions.md">Proposal Guidelines</button>
 
 # About WOS
 World of Open Source is the official 'Open Source Community' of [RV College of Engineering](https://www.rvce.edu.in/), Bangalore.  
