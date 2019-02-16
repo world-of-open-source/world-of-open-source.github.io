@@ -8,7 +8,7 @@
 
 ## [Dr.Shobha G](https://rvce.edu.in//cs-shobhag)
 Senior Professor at RV College of Engineering  
-Experience: 25 years teaching, 13 years Industry   
+Experience: 25 years teaching, 15 years research experience.   
 Skills: Data Mining, Image Processing, Networking  
 Contact: [shobhag@rvce.edu.in](mailto:shobhag@rvce.edu.in)
 
