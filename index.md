@@ -2,7 +2,7 @@
 
 
 [Home](https://world-of-open-source.github.io/)  
-[Ideas List-2019](ideas.md)  
+[Google Summer of Code 2019-Ideas List](ideas.md)  
 [Mentors](mentors.md)  
 [Proposal Instructions](application-instructions.md)
 
