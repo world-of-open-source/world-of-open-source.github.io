@@ -8,7 +8,7 @@
 
 #WOS Code of Conduct
 
-##Introduction ##
+## Introduction ##
 
 This code of conduct applies to all spaces managed by WOS, including all public and private mailing lists, issue trackers, wikis, blogs, Twitter, and any other communication channel used by our community. 
 
@@ -16,7 +16,7 @@ This code of conduct should be honored by everyone who participates in the WOS c
 
 This code is not exhaustive or complete. It serves to distill our common understanding of a collaborative, shared environment and goals. Please try to follow this code in spirit as much as in letter, to create a friendly and productive environment that enriches the surrounding community.
 
-##Specific Guidelines ##
+## Specific Guidelines ##
 We strive to:
 
 - Be open. We invite anyone to participate in our community. We prefer to use public methods of communication for project-related messages, unless discussing something sensitive. This applies to messages for help or project-related support, too; not only is a public support request much more likely to result in an answer to a question, it also ensures that any inadvertent mistakes in answering are more easily detected and corrected.
@@ -29,7 +29,7 @@ We strive to:
 
 - Be careful in the words that we choose. We are careful and respectful in our communication and we take responsibility for our own speech. Be kind to others. Do not insult or put down other participants. We will not accept harassment or other exclusionary behaviour, such as:
 
-###Avoid these: ##
+### Avoid these: ##
 - Violent threats or language directed against another person.
 - Sexist, racist, or otherwise discriminatory jokes and language.
 - Posting sexually explicit or violent material.
