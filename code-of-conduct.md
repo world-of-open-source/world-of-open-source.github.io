@@ -6,7 +6,7 @@
 [Proposal Instructions](application-instructions.md)  
 [Code of Conduct](code-of-conduct.md)
 
-#WOS Code of Conduct
+# WOS Code of Conduct #
 
 ## Introduction ##
 
