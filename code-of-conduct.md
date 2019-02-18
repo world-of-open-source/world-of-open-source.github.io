@@ -3,7 +3,8 @@
 [Home](https://world-of-open-source.github.io/)  
 [Google Summer of Code 2019-Ideas List](ideas.md)  
 [Mentors](mentors.md)  
-[Proposal Instructions](application-instructions.md)
+[Proposal Instructions](application-instructions.md)  
+[Code of Conduct](code-of-conduct.md)
 
 #WOS Code of Conduct
 
@@ -50,3 +51,41 @@ Though we welcome people fluent in all languages, SciPy development is conducted
 Standards for behaviour in the SciPy community are detailed in the Code of Conduct above. Participants in our community should uphold these standards in all their interactions and help others to do so as well (see next section).
 
 ## Reporting Guidelines ##
+
+We know that it is painfully common for internet communication to start at or devolve into obvious and flagrant abuse. We also recognize that sometimes people may have a bad day, or be unaware of some of the guidelines in this Code of Conduct. Please keep this in mind when deciding on how to respond to a breach of this Code.
+
+For clearly intentional breaches, report those to the Code of Conduct committee (see below). For possibly unintentional breaches, you may reply to the person and point out this code of conduct (either in public or in private, whatever is most appropriate). If you would prefer not to do that, please feel free to report to the Code of Conduct Committee directly, or ask the Committee for advice, in confidence.
+
+You can report issues to the SciPy Code of Conduct committee, at scipy-conduct@googlegroups.com. Currently, the committee consists of:
+
+Stefan van der Walt
+Nathaniel J. Smith
+Ralf Gommers
+If your report involves any members of the committee, or if they feel they have a conflict of interest in handling it, then they will recuse themselves from considering your report. Alternatively, if for any reason you feel uncomfortable making a report to the committee, then you can also contact:
+
+Chair of the SciPy Steering Committee: Ralf Gommers, or
+Senior NumFOCUS staff: conduct@numfocus.org
+
+## Incident reporting resolution & Code of Conduct enforcement ##
+This section summarizes the most important points, more details can be found in SciPy Code of Conduct - How to follow up on a report.
+
+We will investigate and respond to all complaints. The SciPy Code of Conduct Committee and the SciPy Steering Committee (if involved) will protect the identity of the reporter, and treat the content of complaints as confidential (unless the reporter agrees otherwise).
+
+In case of severe and obvious breaches, e.g. personal threat or violent, sexist or racist language, we will immediately disconnect the originator from SciPy communication channels; please see the manual for details.
+
+In cases not involving clear severe and obvious breaches of this code of conduct, the process for acting on any received code of conduct violation report will be:
+
+acknowledge report is received
+reasonable discussion/feedback
+mediation (if feedback didn’t help, and only if both reporter and reportee agree to this)
+enforcement via transparent decision (see Resolutions) by the Code of Conduct Committee
+The committee will respond to any report as soon as possible, and at most within 72 hours.
+
+## Endnotes ##
+We are thankful to the groups behind the following documents, from which we drew content and inspiration:
+
+- [The Apache Foundation Code of Conduct](https://www.apache.org/foundation/policies/conduct.html)
+- [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct)
+- [Jupyter Code of Conduct](https://github.com/jupyter/governance/tree/master/conduct)
+- [Open Source Guides - Code of Conduct](https://opensource.guide/code-of-conduct/)
+- [Scipy Code of Conduct](http://scipy.github.io/devdocs/dev/conduct/code_of_conduct.html)

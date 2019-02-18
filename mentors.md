@@ -3,7 +3,8 @@
 [Home](https://world-of-open-source.github.io/)  
 [Google Summer of Code 2019-Ideas List](ideas.md)  
 [Mentors](mentors.md)  
-[Proposal Instructions](application-instructions.md)
+[Proposal Instructions](application-instructions.md)  
+[Code of Conduct](code-of-conduct.md)
 # List of WOS Mentors for GSoC'19
 
 ## [Dr.Shobha G](https://rvce.edu.in//cs-shobhag)

@@ -4,7 +4,8 @@
 [Home](https://world-of-open-source.github.io/)  
 [Google Summer of Code 2019-Ideas List](ideas.md)  
 [Mentors](mentors.md)  
-[Proposal Instructions](application-instructions.md)
+[Proposal Instructions](application-instructions.md)  
+[Code of Conduct](code-of-conduct.md)
 
 # About WOS
 World of Open Source is the official 'Open Source Community' of [RV College of Engineering](https://www.rvce.edu.in/), Bangalore.  
