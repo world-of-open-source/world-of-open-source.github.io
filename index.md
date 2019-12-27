@@ -1,4 +1,4 @@
-![imglogo](https://user-images.githubusercontent.com/42010556/52521641-fdbdb000-2c9f-11e9-82b8-adad757c50e0.png)  
+![WOS_LOGO](https://user-images.githubusercontent.com/42010556/71524553-148ae680-28f4-11ea-8fe5-3d498f80edcb.png)
 
 
 [Home](https://world-of-open-source.github.io/)  
